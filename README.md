@@ -10,7 +10,7 @@ I’m looking to collaborate with other developers.
 
 ##  📬 Get in touch:
 - ![image](https://user-images.githubusercontent.com/78811434/116773820-a081c500-aa8a-11eb-938b-bf36289fe4a1.png)
-LinkedIn: [linkedin.com/in/vnsonvo](https://www.linkedin.com/in/vnsonvo)
+LinkedIn: [linkedin.com/in/sonlam1931](https://www.linkedin.com/in/sonlam1931/) 
 
 <!--
 **sondocode/sondocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
